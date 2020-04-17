@@ -1,0 +1,87 @@
+/*Design_Studio Styles*/
+
+.page-heading {
+  color: blue;
+  font-family: "Fantasy", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.nav {
+  text-align: center; 
+}
+a {
+  color: black;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: red;
+  text-decoration: none;
+}
+.is-active {
+  color: red;
+}
+.content {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  line-height: 40px;
+}
+.spectrum-offer {
+  text-indent: 40px;
+}
+.spectrum-offer:first-letter {
+font-size: 2em;
+font-weight: 600;
+}
+.servis-description {
+
+}
+.perfect {
+  color: green;
+  font-weight: 700;
+}
+.list-heading {
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  text-indent: 40px;
+}
+.service-list li {
+  font-size: 23px;
+  font-weight: 600;
+  text-indent: 20px;
+}
+ul:nth-child(odd) li:nth-child(odd) {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table {
+width: 200px;
+height: 300px;
+border: solid grey 2px;
+border-spacing: 5px;
+color: white;
+font-size: 24px;
+text-align: left;
+}
+td {
+  padding: 5px;
+  border: 2px solid grey;
+}
+.odd-line td {
+  background: tomato;
+}
+.even-line td {
+  background: black;
+}
+
