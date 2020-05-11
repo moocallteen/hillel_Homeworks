@@ -1,0 +1,16 @@
+.button {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  background-color: #4DFFEA;
+  border-radius: 30px;
+  padding: 16px 64px;
+}
+
+.button:hover {
+  color: #4DFFEA;
+  background-color: #000000;
+  text-decoration: none;
+}

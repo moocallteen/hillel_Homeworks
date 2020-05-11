@@ -1,0 +1,99 @@
+.section {
+  background-color: #494949;
+  padding: 100px 0;
+}
+
+/* hero */
+.section-hero {
+  padding: 147px 0;
+}
+
+.section-hero .sectiion-content {
+  max-width: 425px;
+}
+
+.section-hero .section-title {
+  margin-bottom: 20px;
+}
+
+.section-hero .section-description {
+  margin-bottom: 40px;
+}
+
+/* order */
+.section-order .section-content {
+  max-width: 733px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-order .section-title {
+  margin-bottom: 20px;
+}
+
+.section-order .section-description {
+  margin-bottom: 40px;
+}
+
+/* who */
+.section-who .section-content {
+  max-width: 555px;
+  margin: 0 auto 50px;
+  text-align: center;
+}
+
+.section-who .section-title {
+  margin-bottom: 28px;
+}
+
+.section-who .section-description {
+  margin-bottom: 50px;
+}
+
+/* benefits */
+.section-benefits .section-content {
+  max-width: 881px;
+  margin: 0 auto;
+}
+
+.section-benefits .section-title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+/* colors */
+.section-primary {
+  background-color: #494949;
+  color: #F5F5F5;
+}
+
+.section-primary .section-title {
+    color: #FFFFFF;
+}
+
+.section-secondary {
+    background-color: #00AE9A;
+    color: #F5F5F5;
+}
+
+.section-secondary .section-title {
+    color: #FFFFFF;
+}
+
+.section-default {
+    background-color: #FFFFFF;
+    color: #898989;
+}
+
+.section-default .section-title {
+color: #000000;
+}
+
+.section-footer {
+  background-color: #494949;
+  color: #FFFFFF;
+}
+
+.section-footer .section-title {
+color: #FFFFFF;
+}

@@ -1,0 +1,15 @@
+.list-title {
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+
+.list > .list-item {
+  color: #ffffff;
+  margin-bottom: 10px;
+}

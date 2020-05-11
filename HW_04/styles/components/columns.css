@@ -1,0 +1,19 @@
+.row {
+    font-size: 0;
+    margin: -23px;
+  }
+
+.row > .column {
+  display: inline-block;
+  padding: 23px;
+  font-size: 1rem;
+  vertical-align: top;
+}
+
+.row-large {
+  margin: -40px;
+}
+
+.row-large > .column {
+  padding: 40px;
+}
